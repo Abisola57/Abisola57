@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abisola57
-- 👀 I’m interested in Front-end development...
-- 🌱 I’m currently learning Html,CSS,JS
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning Phyton 
 - 💞️ I’m looking to collaborate on different peoject
 - 📫 How to reach me 08165955644
 
