@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abisola57
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Phyton 
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Phyton and SQL
 - 💞️ I’m looking to collaborate on different peoject
 - 📫 How to reach me 08165955644
 
